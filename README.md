@@ -17,6 +17,4 @@
 - [ ] Other Things I Can Think Of
 - [ ] Requested Features
 
-## Visit The Site
-[Strfront](https://strfront.com)
 
